@@ -1,0 +1,3238 @@
+
+------------------------
+2018.10.18 17:54:49
+start data
+
+------------------------
+
+------------------------
+2018.10.18 17:54:53
+start data
+
+------------------------
+
+------------------------
+2018.10.18 17:57:12
+start data
+
+------------------------
+
+------------------------
+2018.10.18 17:57:14
+start data
+
+------------------------
+
+------------------------
+2018.10.18 17:57:43
+start data
+
+------------------------
+
+------------------------
+2018.10.18 18:23:40
+start data
+
+------------------------
+
+------------------------
+2018.10.18 18:23:48
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => 75319685-46d9d174-b70c298f-3ae0
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:24:08
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => e591d4c-add37780-82708df2-c96
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:24:55
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => 53d693ff-4bf2511f-2fc6fa38-3bb8
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:26:28
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => f66bbc0b-aa5dad30-6a6fcee9-3c8b
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:28:24
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:28:50
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:29:31
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:29:33
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:29:34
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:31:02
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:31:04
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:31:05
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:31:05
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:32:44
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:32:45
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:22
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:22
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:24
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:24
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:25
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:25
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:25
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:25
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:26
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:34:26
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:37
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:37
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:38
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:38
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:39
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:39
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:39
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:39
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:40
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:40
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:41
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:41
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:41
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:41
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:42
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:42
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:42
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:42
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:43
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:43
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:43
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:35:43
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:36:24
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:36:24
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:36:26
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:36:26
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:37:37
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:37:37
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:37:37
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => b1ce5c12-a208c4ef-94edac6f-d50
+            [message_id] => 0
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:11
+start data
+
+------------------------
+
+------------------------
+2018.10.18 18:38:27
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => test
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => test
+                        )
+
+                )
+
+            [original_utterance] => test
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => fc6c0e18-59ecf953-98b0eb34-459c
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:27
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:27
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => fc6c0e18-59ecf953-98b0eb34-459c
+            [message_id] => 0
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:38
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => 
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                        )
+
+                )
+
+            [original_utterance] => 
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 0
+            [new] => 1
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:38
+Global command
+Array
+(
+    [0] => start
+    [1] => /start
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:38
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 0
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:46
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                        )
+
+                )
+
+            [payload] => помощь
+            [type] => ButtonPressed
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 1
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:46
+Global command
+Array
+(
+    [0] => help
+    [1] => помощь
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:46
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Напишите что нибудь боту.
+Для выхода в главное меню можно воспользоваться командой: старт.
+
+            [tts] => Напишите что нибудь боту.
+Для выхода в главное меню можно воспользоваться командой: старт.
+
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => старт
+                            [payload] => старт
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 1
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:50
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                        )
+
+                )
+
+            [payload] => старт
+            [type] => ButtonPressed
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 2
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:50
+Global command
+Array
+(
+    [0] => start
+    [1] => старт
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:38:50
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 2
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:10
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => привет
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => привет
+                        )
+
+                )
+
+            [original_utterance] => привет
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 3
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:10
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Не удалось определить команду.
+            [tts] => Не удалось определить команду.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 3
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:14
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => спасибо
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => спасибо
+                        )
+
+                )
+
+            [original_utterance] => спасибо
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 4
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:14
+Global command
+Array
+(
+    [0] => thanks
+    [1] => спасибо
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:14
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Не за что, была рада помочь.
+            [tts] => Не за что, была рада помочь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 4
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:19
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => спасибо
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => спасибо
+                        )
+
+                )
+
+            [original_utterance] => спасибо
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 5
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:19
+Global command
+Array
+(
+    [0] => thanks
+    [1] => спасибо
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:19
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Мне очень приятно. Я люблю помогать людям.
+            [tts] => Мне очень приятно. Я люблю помогать людям.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 5
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:22
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => дура
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => дура
+                        )
+
+                )
+
+            [original_utterance] => дура
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 6
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:22
+Global command
+Array
+(
+    [0] => obida
+    [1] => дура
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:22
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Вы точно говорили эту фразу мне?
+            [tts] => Вы точно говорили эту фразу мне?
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 6
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:24
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => старт
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => старт
+                        )
+
+                )
+
+            [original_utterance] => старт
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 7
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:24
+Global command
+Array
+(
+    [0] => start
+    [1] => старт
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:24
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 7
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:28
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => помощь
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => помощь
+                        )
+
+                )
+
+            [original_utterance] => помощь
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 8
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:28
+Global command
+Array
+(
+    [0] => help
+    [1] => помощь
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:28
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Напишите что нибудь боту.
+Для выхода в главное меню можно воспользоваться командой: старт.
+
+            [tts] => Напишите что нибудь боту.
+Для выхода в главное меню можно воспользоваться командой: старт.
+
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => старт
+                            [payload] => старт
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 8
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:36
+start data
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [client_id] => ru.yandex.searchplugin/7.16 (none none; android 4.4.2)
+            [interfaces] => stdClass Object
+                (
+                    [screen] => stdClass Object
+                        (
+                        )
+
+                )
+
+            [locale] => ru-RU
+            [timezone] => UTC
+        )
+
+    [request] => stdClass Object
+        (
+            [command] => старт
+            [nlu] => stdClass Object
+                (
+                    [entities] => Array
+                        (
+                        )
+
+                    [tokens] => Array
+                        (
+                            [0] => старт
+                        )
+
+                )
+
+            [original_utterance] => старт
+            [type] => SimpleUtterance
+        )
+
+    [session] => stdClass Object
+        (
+            [message_id] => 9
+            [new] => 
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [skill_id] => f9eeb773-7a68-4f22-a40d-7ba642331f76
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:36
+Global command
+Array
+(
+    [0] => start
+    [1] => старт
+)
+
+------------------------
+
+------------------------
+2018.10.18 18:39:36
+data for alisa
+stdClass Object
+(
+    [response] => stdClass Object
+        (
+            [end_session] => 
+            [text] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [tts] => Продолжим диалог? 
+Для выхода в главное меню отправьте команду: старт. 
+Нужна помощь? Отправьте команду: помощь.
+            [buttons] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [hide] => 1
+                            [title] => помощь
+                            [payload] => помощь
+                        )
+
+                )
+
+        )
+
+    [session] => stdClass Object
+        (
+            [session_id] => 7cf393fb-4b18def8-a5ecf791-1051
+            [message_id] => 9
+            [user_id] => F3DB8DE54A9DEC7FB81AE8D78D2B6933AC9604FAF47ED53C5993385D3C4E4F33
+        )
+
+    [version] => 1.0
+)
+
+------------------------

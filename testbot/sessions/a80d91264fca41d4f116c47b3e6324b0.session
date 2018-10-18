@@ -1,5 +1,0 @@
-a:7:{s:5:"CLASS";s:24:"\Mlife\Cbots\Usersession";s:15:"SESSION_EXPIRED";i:2419200;s:11:"SESSION_DIR";s:65:"/var/www/mlife-media/data/www/mlife-media.by/api/testbot/sessions";s:8:"CONTECST";s:31:"\Mlife\Cbots\Contecst\Bot\Start";s:15:"CONTECST_GLOBAL";s:33:"\Mlife\Cbots\Contecst\Bot\Globalc";s:12:"LAST_COMMAND";s:0:"";s:14:"LAST_MESS_DATA";a:7:{s:4:"text";s:202:"Продолжим диалог? 
-Для выхода в главное меню отправьте команду: старт. 
-Нужна помощь? Отправьте команду: помощь.";s:3:"tts";s:202:"Продолжим диалог? 
-Для выхода в главное меню отправьте команду: старт. 
-Нужна помощь? Отправьте команду: помощь.";s:7:"buttons";a:1:{i:0;a:4:{s:4:"hide";b:1;s:12:"title_button";s:12:"помощь";s:7:"payload";s:12:"помощь";s:12:"title_comand";s:12:"помощь";}}s:8:"image_id";b:0;s:17:"image_description";b:0;s:11:"image_title";b:0;s:4:"type";b:0;}}
